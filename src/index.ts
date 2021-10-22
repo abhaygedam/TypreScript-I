@@ -19,5 +19,6 @@ let g: Record<string, string[]> = {
     a: ["abhay"],
     b: ["sagar"],
     c: ["adarsh", "chandraj"],
-    d: ["amol", "chake"],   
+    d: ["amol", "chake"],
 }
+
